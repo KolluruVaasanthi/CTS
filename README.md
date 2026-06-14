@@ -1,2 +1,0 @@
-# CTS
-CTS learning programs
